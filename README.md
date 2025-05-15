@@ -1,1 +1,1 @@
-# Sign_lang_detection_using_CNN-
+# Sign_lang_detection_using_CNN-This project focuses on detecting and translating  Sign Language  gestures into text using computer vision techniques and deep learning models. The system aims to bridge the communication gap between hearing-impaired individuals and others by capturing non-verbal cues and converting them into understandable language in real-time.
